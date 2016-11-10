@@ -1,3 +1,5 @@
 Mars  is my favorite planet.
 Is there water on Mars.
 I am not sure.
+
+Yes, there is, but it is frozen!
